@@ -159,7 +159,7 @@ internal sealed record CommandLineOptions(
         {
             name = "@" + name;
         }
-
+                    // vitaly Test
         return new SqlParameter(name, InferParameterValue(valueText));
     }
 

@@ -1,0 +1,15 @@
+bin/
+obj/
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# User/local IDE files
+.vs/
+*.user
+*.suo
+
+# Generated exports
+*.xlsx
